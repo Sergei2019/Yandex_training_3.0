@@ -9,10 +9,10 @@
 
 
 ### Пример ввода:
-Twas brillig, and the slithy toves
-Did gyre and gimble in the wabe;
-All mimsy were the borogoves,
-And the mome raths outgrabe.
+Twas brillig, and the slithy toves <br/>
+Did gyre and gimble in the wabe; <br/>
+All mimsy were the borogoves, <br/>
+And the mome raths outgrabe. <br/>
 
 ### Пример вывода
 
