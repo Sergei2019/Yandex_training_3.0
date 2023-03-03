@@ -16,17 +16,5 @@ And the mome raths outgrabe.
 
 ### Пример вывода
 
-         #              
-         #              
-         #              
-         #              
-         #              
-         #         #    
-         #  #      #    
-      #  # ###  ####    
-      ## ###### ####    
-      ##############    
-      ##############  ##
-#  #  ############## ###
-########################
-,.;ADTabdeghilmnorstuvwy
+![image](https://user-images.githubusercontent.com/46378306/222787646-f9f83248-2e6b-4501-8c1e-f3299c16437a.png)
+
